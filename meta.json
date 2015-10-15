@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Bootstrap dual listbox",
+        "slugname":"pharinix_mod_bootstrap_duallistbox",
+        "version": "3.0.2",
+        "autor": "Copyright 2013-2014 István Ujj-Mészáros, Copyright (c), 2015, Pedro Pelaez (aaaaa976@gmail.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_bootstrap_duallistbox",
+        "description": "Responsive dual listbox widget optimized for Twitter Bootstrap.",
+        "licence": "Apache License, Version 2.0"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.09.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
