@@ -13,6 +13,7 @@ if (!class_exists("commandIncDualListbox")) {
 
         public static function getHelp() {
             return array(
+                "package" => "pharinix_mod_bootstrap_duallistbox",
                 "description" => __("Print HTML includes to duallistbox."), 
                 "parameters" => array(), 
                 "response" => array(),
